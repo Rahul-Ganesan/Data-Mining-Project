@@ -14,5 +14,5 @@ Dataset : https://demography.dola.colorado.gov/assets/html/housing.html
 
 We've used the Municipal Population and Housing Timeseries Data from 2010 to Current Year (2024 at this time of project). This dataset contains around 4600 entries, comprising of population and housing details across various counties in Colorado.
 
-We have cleaned and performed data preprocessing for this data, with added insights using graphical visualization methods. Please refer to Milestone2.ipynb for the corresponding code for this analysis.
+We have cleaned and performed data preprocessing for this data, with added insights using graphical visualization methods. This is the clean_data.csv file in our repository. Please refer to Milestone2.ipynb for the corresponding code for this analysis.
 
