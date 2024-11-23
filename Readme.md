@@ -8,11 +8,3 @@ Colorado is currently facing housing crisis, due to various factors such as seas
 
 The mission of this project is to analyze population and housing trends at the municipal level, with the goal of identifying patterns and gaps in housing availability, occupancy rates, and demographic shifts. By leveraging data on population size, household composition, and housing units, the project aims to provide actionable insights for policymakers, urban planners, and community stakeholders. This analysis will contribute to more informed decision-making in addressing housing shortages, improving urban development strategies, and ensuring equitable access to housing across regions.
 
-# Milestone 2:
-
-Dataset : https://demography.dola.colorado.gov/assets/html/housing.html
-
-We've used the Municipal Population and Housing Timeseries Data from 2010 to Current Year (2024 at this time of project). This dataset contains around 4600 entries, comprising of population and housing details across various counties in Colorado.
-
-We have cleaned and performed data preprocessing for this data, with added insights using graphical visualization methods. This is the clean_data.csv file in our repository. Please refer to Milestone2.ipynb for the corresponding code for this analysis.
-
